@@ -1,4 +1,4 @@
-# home
+# HomeIQ
 
 A new Flutter project.
 

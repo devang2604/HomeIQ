@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942395954251",
+    "project_id": "smart-home-d60b0",
+    "storage_bucket": "smart-home-d60b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942395954251:android:7bb4c15d738b499e9569ce",
+        "android_client_info": {
+          "package_name": "com.example.home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ESfMSS4aQOH5WHCaEY8Ato5hlsSVSuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
